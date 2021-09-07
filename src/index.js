@@ -5,7 +5,7 @@ import Root from 'Root';
 
 ReactDOM.render(
 	<Root>
-		<App />,
+		<App />
 	</Root>,
 	document.querySelector('#root')
 );
